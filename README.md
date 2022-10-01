@@ -7,7 +7,7 @@ Python
 # Algorithom
 Haar Cascades
 
-#Model
+# Model
 SVM
 
 # Process
