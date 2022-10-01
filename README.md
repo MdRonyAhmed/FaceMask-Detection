@@ -1,5 +1,14 @@
 # FaceMask-Detection
-The goal of this project is to detect a human wear a mask or not in his/her face. To develop the project I have used Python and Collab platform.
+This is a Machine Learing based project. The goal of this project is to detect a human wear a mask or not in his/her face. To develop the project I have used Python and Collab platform.
+
+# Language
+Python
+
+# Algorithom
+Haar Cascades
+
+#Model
+SVM
 
 # Process
 1. First of all we detect the human face from the live camera. Here we have used Haar-Cascades algorithom to detect the human face.
